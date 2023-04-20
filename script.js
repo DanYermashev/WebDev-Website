@@ -15,7 +15,7 @@ hiringRadio.forEach((radio) => {
   });
 });
 function downloadFile() {
-    window.open("C:/Users/playa/OneDrive/Desktop/WebDev/WEB-FINAL/Resume-Daniel-Yermashev.pdf")
+    window.open("https://github.com/DanYermashev/WebDev-Website/blob/main/Resume-Daniel-Yermashev.pdf")
  }
 
  const form = document.getElementById("contact-form");
